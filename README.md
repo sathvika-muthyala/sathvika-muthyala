@@ -85,12 +85,12 @@ Firebase, REST APIs, auth systems, AI-chat integrations, real-time dashboards.
 ## 📊 **GitHub Stats**
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sathvikamuthyala&show_icons=true&theme=tokyonight" height="180">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathvikamuthyala&layout=compact&theme=tokyonight" height="180">
+<img src="https://github-readme-stats.vercel.app/api?username=sathvika-muthyala&show_icons=true&theme=tokyonight" height="180">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathvika-muthyala&layout=compact&theme=tokyonight" height="180">
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sathvikamuthyala&theme=tokyonight" height="200">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sathvika-muthyala&theme=tokyonight" height="200">
 </p>
 
 ---
