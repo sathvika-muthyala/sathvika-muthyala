@@ -5,7 +5,7 @@
 <p align="center">
   <a href="mailto:sathvikam2014@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red"></a>
   <a href="https://www.linkedin.com/in/sathvika-muthyala"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue"></a>
-  <a href="https://github.com/sathvikamuthyala"><img src="https://img.shields.io/badge/GitHub-Follow-black"></a>
+  <a href="https://github.com/sathvika-muthyala"><img src="https://img.shields.io/badge/GitHub-Follow-black"></a>
   <a href="https://sathvikamuthyala.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-green"></a>
 </p>
 
