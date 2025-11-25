@@ -1,9 +1,9 @@
 <!-- HEADER -->
 <h1 align="center">👋 Hi, I'm <strong>Sathvika Muthyala</strong></h1>
-<h3 align="center">Data Scientist • GenAI Engineer • Mobile Developer (Flutter & Swift)</h3>
+<h3 align="center">DevOps Engineer • MLOps Engineer • Cloud | AI/ML Systems</h3>
 
 <p align="center">
-  <a href="mailto:sathvikam2014@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red"></a>
+  <a href="mailto:sathvikamuthyala65@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red"></a>
   <a href="https://www.linkedin.com/in/sathvika-muthyala"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue"></a>
   <a href="https://github.com/sathvika-muthyala"><img src="https://img.shields.io/badge/GitHub-Follow-black"></a>
   <a href="https://sathvikamuthyala.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-green"></a>
@@ -16,69 +16,76 @@
 ---
 
 ## 👩‍💻 **About Me**
-I'm a **Generative AI Engineer**, **Data Scientist**, and **Mobile Developer** passionate about building  
-intelligent systems that combine **LLMs**, **Machine Learning**, and **Mobile Apps**.
+I'm a **DevOps & MLOps Engineer** with hands-on experience building scalable, automated, and production-ready systems across **cloud, CI/CD, ML lifecycle, and container-based infrastructure**.
 
-✨ I specialize in:
-- Building **RAG systems**, LLM apps, embeddings, vector search  
-- Designing **AI-powered mobile apps** using Flutter & Swift  
-- Deploying cloud-based pipelines on **AWS/GCP**  
-- Creating ML models for prediction, classification & analytics  
-- Turning ideas into real products with clean, scalable engineering 
+I design and maintain end-to-end DevOps + MLOps pipelines using:
+- **Kubernetes, Docker, Jenkins, GitHub Actions**
+- **AWS, Azure, GCP**
+- **MLflow, Kubeflow, LangChain**
+- **Ansible, Terraform, CloudFormation**
+
+My expertise sits at the intersection of **cloud engineering, automation, and machine learning**, enabling faster, reliable, and smarter deployments.
 
 ---
 
-## 🧠 **Tech Stack & Tools**
+## 🧠 **Technical Skills**
 
 ### ⚡ **Languages**
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,dart,swift,javascript,r" />
+<img src="https://skillicons.dev/icons?i=python,bash,java,cpp,swift,dart,javascript" />
 </p>
 
-### 🧠 **AI / ML / GenAI**
+### 🧠 **MLOps / AI / ML**
 <p>
+<img src="https://img.shields.io/badge/MLOps-MLflow%20%7C%20Kubeflow%20%7C%20Airflow-blue?style=for-the-badge">
+<br/>
 <img src="https://img.shields.io/badge/LLMs-OpenAI%20%7C%20Llama%20%7C%20Mistral-purple?style=for-the-badge">
-<img src="https://img.shields.io/badge/RAG-LangChain%20%7C%20FAISS%20%7C%20Pinecone-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/RAG-LangChain%20%7C%20FAISS%20%7C%20Pinecone-yellow?style=for-the-badge">
 <br/>
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-<img src="https://img.shields.io/badge/HuggingFace-Transformers-yellow?style=flat&logo=huggingface">
-</p>
-
-### 📱 **Mobile Development**
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,firebase,swift" />
 </p>
 
 ### ☁️ **Cloud & DevOps**
 <p>
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,linux" />
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,git,linux" />
+<br/>
+<img src="https://img.shields.io/badge/IaC-Terraform%20%7C%20CloudFormation%20%7C%20Ansible-green?style=flat">
 </p>
 
 ### 🗄️ **Databases & Tools**
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-<img src="https://skillicons.dev/icons?i=figma,postman" />
+<img src="https://skillicons.dev/icons?i=postman,figma" />
 </p>
 
 ---
 
 ## 🚀 **Featured Projects**
 
-### 🔹 **GenAI Career Guidance System**  
-AI-powered resume analyzer using NLP, embeddings, TF-IDF + cosine similarity.  
-🔥 Built RAG-style retrieval + Streamlit UI with 85% accuracy.  
+### 🔹 **End-to-End MLOps Pipeline**
+Built a fully automated pipeline with:
+- MLflow model tracking  
+- Dockerized training environment  
+- CI/CD for model packaging  
+- Kubernetes deployment + monitoring  
+- Auto-rollbacks on drift  
 
-### 🔹 **Stock Trend Classification (INTC)**  
-5-year financial forecasting project using ML models (RF, KNN).  
-📈 Achieved **AUC 0.82** with advanced feature engineering.
+### 🔹 **RAG Knowledge System**
+Custom RAG pipeline using:
+- LangChain  
+- FAISS vector index  
+- Embedding-based retrieval  
+- API deployed on AWS Lambda  
 
-### 🔹 **Agri-Cultor (AI Crop & Health Prediction)**  
-Environmental sensor data → ML model predicting crop/user health.  
-🌱 Achieved **50% improvement** over rule-based system.
+### 🔹 **DevOps Cloud Automation**
+- Automated CI/CD (Jenkins/GitHub Actions)  
+- Terraform modules for reusable AWS infrastructure  
+- Kubernetes deployment with Helm charts  
+- Centralized logging (ELK + CloudWatch)  
 
-### 🔹 **Mobile Apps (Flutter & Swift)**  
-Firebase, REST APIs, auth systems, AI-chat integrations, real-time dashboards.  
-📱 Built modular, scalable mobile architectures.
+### 🔹 **Intelligent Mobile Apps (Optional)**
+If you want, I can remove this part.  
+- Flutter/Swift apps integrated with AI chat, REST APIs, and Firebase  
 
 ---
 
@@ -98,10 +105,10 @@ Firebase, REST APIs, auth systems, AI-chat integrations, real-time dashboards.
 ## 🌐 **Connect With Me**
 <p>
 <a href="https://www.linkedin.com/in/sathvika-muthyala"><img src="https://skillicons.dev/icons?i=linkedin" width="48"></a>
-<a href="mailto:sathvikam2014@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48"></a>
-<a href="https://github.com/sathvikamuthyala"><img src="https://skillicons.dev/icons?i=github" width="48"></a>
+<a href="mailto:sathvikamuthyala65@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48"></a>
+<a href="https://github.com/sathvika-muthyala"><img src="https://skillicons.dev/icons?i=github" width="48"></a>
 </p>
 
 ---
 
-<h3 align="center">⭐ Thanks for visiting! Let's build something intelligent together.</h3>
+<h3 align="center">⭐ Thanks for visiting! Let’s build better DevOps + MLOps systems together.</h3>
